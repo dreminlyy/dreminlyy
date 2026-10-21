@@ -1,13 +1,13 @@
-# Привет! Я [Твое Имя/Никнейм] 👋
+# Привет! Я dreminlyy 👋
 
-Начинающий **Junior System Administrator / DevOps / Python Developer**.  
-Занимаюсь администрированием Linux-серверов, автоматизацией процессов и разработкой Telegram-ботов.
+Начинающий **Junior System Administrator / Python Developer**.  
+Занимаюсь администрированием Windows-серверов, автоматизацией процессов и разработкой Telegram-ботов.
 
 ---
 
 ### 🛠 Стек и Технологии
 
-* **OS & Administration:** Linux (Ubuntu, Debian), Windows Server, Active Directory, Bash
+* **OS & Administration:** Windows Server, Active Directory, Bash
 * **Containerization & Web:** Docker, Docker Compose, Nginx
 * **Development:** Python 3, aiogram 3.x, aiosqlite, SQL
 * **Tools & VCS:** Git, VS Code, VirtualBox / VMware
